@@ -1,0 +1,32 @@
+﻿  ColliderComponent.cpp
+  GraphicsComponent.cpp
+  InputComponent.cpp
+  PlayerStateComponent.cpp
+  VelocityComponent.cpp
+  Board.cpp
+  Game.cpp
+  GameCommand.cpp
+  InputHandler.cpp
+  PlayerCommand.cpp
+  Tile.cpp
+  Entity.cpp
+  Fire.cpp
+  Player.cpp
+  AnimBase.cpp
+  AnimDirectional.cpp
+  SpriteSheet.cpp
+  Window.cpp
+  main.cpp
+  ColliderSystem.cpp
+  Compiling...
+  GameplaySystem.cpp
+  GraphicsSystem.cpp
+  InputSystem.cpp
+  MovementSystem.cpp
+  TTLSystem.cpp
+  Rectangle.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1890 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Assignment2.vcxproj -> E:\GitHub\ECS7014P-ASSIGNMENT-2-GroupL\Assignment2\x64\Release\Assignment2.exe
